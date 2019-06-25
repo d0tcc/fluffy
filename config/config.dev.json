@@ -1,0 +1,6 @@
+{
+    "tbotToken": "YOUR_BOT_TOKEN",
+    "adminID": "YOUR_TELEGRAM_CHAT_ID",
+    "pirGPIO": "YOUR_PIR_GPIO_NUMBER",
+    "pictureFolder": "/tmp/"
+}
